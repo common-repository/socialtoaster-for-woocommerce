@@ -1,0 +1,24 @@
+.st-direct-signup {
+    pointer-events: inherit;
+    opacity: inherit;
+}
+
+.st-direct-signup.deactivated {
+    pointer-events: none;
+    opacity: 0.6;
+}
+
+.st-signup-wrapper {
+    padding: .6em;
+    font-weight: bold;
+    margin-bottom: 1em;
+}
+
+.st-signup-message {
+    font-weight: bolder;
+    color: #d32f2f;
+}
+
+.st-signup-cta-text {
+    
+}
